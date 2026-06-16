@@ -1,4 +1,4 @@
-# Production Docker Configuration — Allzone
+# Production Docker Configuration
 ## Frontend + Backend + MySQL + Redis (CIS / OWASP hardened, 24/7)
 
 This file contains every Docker file you need for production: the four service Dockerfiles, the `docker-compose.yml`, the `.dockerignore`, and the `.env.example`. Copy each block into the matching file on your server.
